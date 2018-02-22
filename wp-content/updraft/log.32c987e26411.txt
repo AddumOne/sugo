@@ -1,0 +1,172 @@
+0000.000 (0) Opened log file at time: Sat, 17 Feb 2018 22:47:23 +0000 on http://www.sugoelitetraining.com
+0000.006 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.4 PHP: 5.6.30 (cgi-fcgi, Linux vps18586.inmotionhosting.com 2.6.32-042stab127.2 #1 SMP Thu Jan 4 16:41:44 MSK 2018 x86_64) MySQL: 5.6.38 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 34.2M | 35.3M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.122 (0) Free space on disk containing Updraft's temporary directory: 47088.8 MB
+0000.125 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: daily)
+0000.128 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 
+0000.129 (0) Semaphore (f, wp_options) being initialised
+0000.141 (0) Requesting semaphore lock (f) (apparently not via scheduler)
+0000.143 (0) Set semaphore last lock (f) time to 2018-02-17 22:47:23
+0000.144 (0) Semaphore lock (f) complete
+0000.151 (0) Backup run: resumption=0, nonce=32c987e26411, begun at=1518907643 (0s ago), job type=backup
+0000.153 (0) Scheduling a resumption (1) after 300 seconds (1518907943) in case this run gets aborted
+0000.169 (0) OpenVZ; reported memory: 1536 MB
+0000.170 (0) Checking if we have a zip executable available
+0000.171 (0) Testing: /usr/bin/zip
+0000.179 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.181 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.182 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.183 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.184 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.191 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.193 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.206 (0) Working binary zip found: /usr/bin/zip
+0000.208 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.209 (0) Creation of backups of directories: beginning
+0000.213 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.461 (0) Total entities for the zip file: 492 directories, 2992 files (0 skipped as non-modified), 45 MB
+0000.468 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.474 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.480 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.486 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.492 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.493 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.8 MB, 2992 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0001.250 (0) backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: size is now: 3.00 MB
+0001.263 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 600 files added (on-disk size: 3026.7 KB)
+0001.273 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 700 files added (on-disk size: 3026.7 KB)
+0001.282 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 800 files added (on-disk size: 3026.7 KB)
+0001.291 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 900 files added (on-disk size: 3026.7 KB)
+0001.297 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 1000 files added (on-disk size: 3026.7 KB)
+0001.299 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.3 MB, 2992 files batched, 501 (1002) added so far); re-opening (prior size: 3026.7 KB)
+0001.869 (0) backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: size is now: 5.30 MB
+0001.878 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 1100 files added (on-disk size: 5456.5 KB)
+0001.884 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 1200 files added (on-disk size: 5456.5 KB)
+0001.890 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 1300 files added (on-disk size: 5456.5 KB)
+0001.896 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 1400 files added (on-disk size: 5456.5 KB)
+0001.902 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 1500 files added (on-disk size: 5456.5 KB)
+0001.904 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.6 MB, 2992 files batched, 501 (1503) added so far); re-opening (prior size: 5456.5 KB)
+0002.572 (0) backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: size is now: 8.20 MB
+0002.582 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 1600 files added (on-disk size: 8446.7 KB)
+0002.588 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 1700 files added (on-disk size: 8446.7 KB)
+0002.594 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 1800 files added (on-disk size: 8446.7 KB)
+0002.601 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 1900 files added (on-disk size: 8446.7 KB)
+0002.607 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 2000 files added (on-disk size: 8446.7 KB)
+0002.608 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.4 MB, 2992 files batched, 501 (2004) added so far); re-opening (prior size: 8446.7 KB)
+0003.306 (0) backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: size is now: 10.20 MB
+0003.316 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 2100 files added (on-disk size: 10444.3 KB)
+0003.322 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 2200 files added (on-disk size: 10444.3 KB)
+0003.331 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 2300 files added (on-disk size: 10444.3 KB)
+0003.342 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 2400 files added (on-disk size: 10444.3 KB)
+0003.351 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 2500 files added (on-disk size: 10444.3 KB)
+0003.354 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.4 MB, 2992 files batched, 501 (2505) added so far); re-opening (prior size: 10444.3 KB)
+0003.798 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 2600 files added (on-disk size: 11006.7 KB)
+0003.805 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 2700 files added (on-disk size: 11006.7 KB)
+0003.811 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 2800 files added (on-disk size: 11006.7 KB)
+0003.820 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: 2900 files added (on-disk size: 11006.7 KB)
+0005.133 (0) backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip.tmp: size is now: 15.80 MB
+0005.566 (0) Created plugins zip (0) - 16216.9 KB in 5.2 s (3089.1 KB/s) (sha1: 974ec14ca1177989c1e5be2186c0432af18a7a20, sha256: 546283139c77922d24944d690c5be0e118f920911a16d8b4b5fe62e2b4c0a04d)
+0005.571 (0) Beginning creation of dump of themes (split every: 400 MB)
+0005.682 (0) Total entities for the zip file: 34 directories, 186 files (0 skipped as non-modified), 8.9 MB
+0005.689 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0006.004 (0) backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-themes.zip.tmp: size is now: 7.60 MB
+0006.254 (0) Created themes zip (0) - 7775.8 KB in 0.6 s (13305.2 KB/s) (sha1: 80764fe3e72ae06af8c5ad54db78ca34ede98986, sha256: 4b4f987a7b21606c9f445f48b18df59810d88bd80ba1b3f0f035d81824fe1f38)
+0006.258 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0006.259 (0) Looking for candidates to back up in: /home/sugoelitetrainin/public_html/wp-content/uploads
+0006.260 (0) finding files: 2018: adding to list (1)
+0006.262 (0) finding files: elementor: adding to list (2)
+0006.263 (0) finding files: 2017: adding to list (3)
+0006.265 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0006.366 (0) Total entities for the zip file: 7 directories, 102 files (0 skipped as non-modified), 6 MB
+0006.372 (0) Zip: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0006.554 (0) backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-uploads.zip.tmp: size is now: 6.00 MB
+0006.716 (0) Created uploads zip (0) - 6140.4 KB in 0.4 s (17181.8 KB/s) (sha1: 96ec229c4baa8b9d5006aa42b3066503c843b491, sha256: 36960b83522d7f149037d1e75153389f20a86b51d56dff50435b2a2d90904df2)
+0006.720 (0) Beginning backup of other directories found in the content directory (index: 0)
+0006.722 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0006.723 (0) Looking for candidates to back up in: /home/sugoelitetrainin/public_html/wp-content
+0006.724 (0) finding files: updraft: skipping: this is the updraft directory
+0006.725 (0) finding files: plugins: skipping: this is the plugins directory
+0006.726 (0) finding files: index.php: adding to list (1)
+0006.727 (0) finding files: themes: skipping: this is the themes directory
+0006.728 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0006.729 (0) finding files: upgrade: skipping: excluded by options
+0006.730 (0) finding files: uploads: skipping: this is the uploads directory
+0006.834 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0006.843 (0) backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-others.zip.tmp: size is now: 0.00 MB
+0006.851 (0) Created others zip (0) - 0.2 KB in 0 s (9.1 KB/s) (sha1: 1fc0e9da24e110f40d4660034ab595e8b8c4f25d, sha256: 11f49d2c962be6d09afdd5fc82c46de005fad57920548c932ff1541e1c71afe8)
+0006.859 (0) Saving backup status to database (elements: 8)
+0006.864 (0) No database backup (wp) - not part of this run
+0006.870 (0) backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0006.872 (0) backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0006.873 (0) backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0006.874 (0) backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-others.zip: others: This file has not yet been successfully uploaded: will queue
+0006.875 (0) Saving backup history. Total backup size: 29.4 MB
+0006.882 (0) Requesting upload of the files that have not yet been successfully uploaded (4)
+0006.886 (0) Cloud backup selection (1/1): email with instance (1/1) (last)
+0006.887 (0) Beginning dispatch of backup to remote (email)
+0006.889 (0) backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip: email to: abake...
+0007.914 (0) Recording as successfully uploaded: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip (04d9a20ebb8992315521cdf89cceebcf)
+0007.928 (0) Deleting local file: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-plugins.zip: OK
+0007.929 (0) backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-themes.zip: email to: abake...
+0008.392 (0) Recording as successfully uploaded: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-themes.zip (8d10b39e7548cc2acf42f2ab54a28195)
+0008.401 (0) Deleting local file: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-themes.zip: OK
+0008.403 (0) backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-uploads.zip: email to: abake...
+0008.785 (0) Recording as successfully uploaded: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-uploads.zip (f0835966a14b47fa21cb8a05147967f4)
+0008.793 (0) Deleting local file: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-uploads.zip: OK
+0008.794 (0) backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-others.zip: email to: abake...
+0020.159 (0) Recording as successfully uploaded: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-others.zip (cabf8efa2f7e1a1a6808ca48606d13eb)
+0020.167 (0) Deleting local file: backup_2018-02-17-2247_SUGO_Elite_Training_32c987e26411-others.zip: OK
+0020.170 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=4
+0020.173 (0) Number of backup sets in history: 9; groups (db): 1
+0020.174 (0) Examining (for databases) backup set with group_id=0, nonce=32c987e26411, datestamp=1518907643 (Feb 17 2018 22:47:23)
+0020.176 (0) Examining (for databases) backup set with group_id=0, nonce=b37e0f29525b, datestamp=1518811814 (Feb 16 2018 20:10:14)
+0020.176 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0020.178 (0) Examining (for databases) backup set with group_id=0, nonce=13bc677d274d, datestamp=1518735028 (Feb 15 2018 22:50:28)
+0020.178 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0020.178 (0) Examining (for databases) backup set with group_id=0, nonce=1339cfddafc1, datestamp=1518639200 (Feb 14 2018 20:13:20)
+0020.178 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0020.179 (0) Examining (for databases) backup set with group_id=0, nonce=2a8f2a628cef, datestamp=1518553707 (Feb 13 2018 20:28:27)
+0020.179 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0020.179 (0) Examining (for databases) backup set with group_id=0, nonce=8e2f7bb99bd5, datestamp=1518296710 (Feb 10 2018 21:05:10)
+0020.179 (0) Examining (for databases) backup set with group_id=0, nonce=eed59405f6a2, datestamp=1518293152 (Feb 10 2018 20:05:52)
+0020.180 (0) Examining (for databases) backup set with group_id=0, nonce=ca12d25f37c5, datestamp=1518291901 (Feb 10 2018 19:45:01)
+0020.180 (0) Examining (for databases) backup set with group_id=0, nonce=60307260cbad, datestamp=1517107381 (Jan 28 2018 02:43:01)
+0020.180 (0) Number of backup sets in history: 9; groups (files): 1
+0020.181 (0) Examining (for files) backup set with nonce=32c987e26411, datestamp=1518907643 (Feb 17 2018 22:47:23)
+0020.181 (0) This backup set is the backup set just made, so will not be deleted.
+0020.183 (0) This backup set is the backup set just made, so will not be deleted.
+0020.183 (0) This backup set is the backup set just made, so will not be deleted.
+0020.184 (0) This backup set is the backup set just made, so will not be deleted.
+0020.184 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0020.186 (0) Examining (for files) backup set with nonce=b37e0f29525b, datestamp=1518811814 (Feb 16 2018 20:10:14)
+0020.186 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0020.187 (0) Examining (for files) backup set with nonce=13bc677d274d, datestamp=1518735028 (Feb 15 2018 22:50:28)
+0020.187 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0020.188 (0) Examining (for files) backup set with nonce=1339cfddafc1, datestamp=1518639200 (Feb 14 2018 20:13:20)
+0020.188 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0020.188 (0) Examining (for files) backup set with nonce=2a8f2a628cef, datestamp=1518553707 (Feb 13 2018 20:28:27)
+0020.188 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0020.188 (0) Examining (for files) backup set with nonce=8e2f7bb99bd5, datestamp=1518296710 (Feb 10 2018 21:05:10)
+0020.188 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0020.189 (0) Examining (for files) backup set with nonce=eed59405f6a2, datestamp=1518293152 (Feb 10 2018 20:05:52)
+0020.190 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0020.190 (0) Examining (for files) backup set with nonce=ca12d25f37c5, datestamp=1518291901 (Feb 10 2018 19:45:01)
+0020.190 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0020.191 (0) Examining (for files) backup set with nonce=60307260cbad, datestamp=1517107381 (Jan 28 2018 02:43:01)
+0020.191 (0) plugins: over retain limit (4); will delete this file entity
+0020.191 (0) themes: over retain limit (4); will delete this file entity
+0020.191 (0) uploads: over retain limit (4); will delete this file entity
+0020.191 (0) others: over retain limit (4); will delete this file entity
+0020.191 (0) Delete file: backup_2018-01-28-0243_SUGO_Elite_Training_60307260cbad-plugins.zip, service=email
+0020.192 (0) Delete file: backup_2018-01-28-0243_SUGO_Elite_Training_60307260cbad-themes.zip, service=email
+0020.194 (0) Delete file: backup_2018-01-28-0243_SUGO_Elite_Training_60307260cbad-uploads.zip, service=email
+0020.196 (0) Delete file: backup_2018-01-28-0243_SUGO_Elite_Training_60307260cbad-others.zip, service=email
+0020.201 (0) This backup set is now empty; will remove from history
+0020.202 (0) Deleting log file (log.60307260cbad.txt)
+0020.204 (0) Retain: saving new backup history (sets now: 8) and finishing retain operation
+0020.211 (0) Resume backup (32c987e26411, 0): finish run
+0020.215 (0) Decremented the semaphore (f) by 1
+0020.218 (0) Semaphore (f) unlocked
+0020.220 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0020.226 (0) Fetching RSS news feed
+0020.497 (0) Fetched RSS news feed; result is a: SimplePie
+0020.539 (0) Sending email ('Files only (database was not part of this particular schedule) (Full backup)') report (attachments: 0, size: 0 KB) to: abake...
+0030.547 (0) The backup apparently succeeded and is now complete
