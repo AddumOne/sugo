@@ -16,3 +16,13 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+.idea/
+.well-known/
+cgi-bin/
+wp-content/plugins/contact-form-7/admin/images/
+wp-content/plugins/contact-form-7/images/service-icons/
+wp-content/plugins/menu-icons/includes/library/icon-picker/
+wp-content/plugins/menu-icons/includes/library/menu-item-custom-fields/
+wp-content/plugins/updraftplus/vendor/bin/
+wp-content/plugins/updraftplus/vendor/robloach/
+wp-content/updraft/emptydir/
